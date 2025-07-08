@@ -39,12 +39,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // 社交分享卡片图片
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/1 (2).png',
       navbar: { // 导航栏配置
         title: 'zhengddzz文档',
         logo: {
           alt: '网站Logo',
-          src: 'img/logo.svg',
+          src: 'img/1 (2).png',
         },
         items: [ // 导航栏菜单
           {
