@@ -11,6 +11,10 @@
 |[q.zhengddzz.com](https://q.zhengddzz.com/)|问卷系统|运行中||
 |[mc.zhengddzz.com](https://mc.zhengddzz.com/)|MC服官网|建设中||
 
+使用条款：https://www.zhengddzz.com/teams/use.html
+
+隐私条款：https://www.zhengddzz.com/teams/pp.html
+
 ----------------
 ## 管理员名单
 
