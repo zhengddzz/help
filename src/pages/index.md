@@ -9,7 +9,7 @@
 |[blog.zhengddzz.com](https://blog.zhengddzz.com/)|个人博客|运行中||
 |[pan.zhengddzz.com](https://pan.zhengddzz.com/)|网盘服务|暂时关闭|9.1恢复服务|
 |[q.zhengddzz.com](https://q.zhengddzz.com/)|问卷系统|运行中||
-|[mc.zhengddzz.com](https://mc.zhengddzz.com/)|MC服官网|建设中||
+|[mc.zhengddzz.com](https://mc.zhengddzz.com/)|MC服官网|运行中||
 
 使用条款：https://www.zhengddzz.com/teams/use.html
 
