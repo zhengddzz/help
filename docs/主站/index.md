@@ -14,9 +14,9 @@ sidebar_position: 1
 |[q.zhengddzz.com](https://q.zhengddzz.com/)|问卷系统|运行中||
 |[mc.zhengddzz.com](https://mc.zhengddzz.com/)|MC服官网|运行中||
 
-使用条款：/主站/使用条款
+[使用条款](/主站/使用条款)
 
-隐私条款：/主站/隐私政策
+[隐私条款](/主站/隐私政策)
 
 ----------------
 
