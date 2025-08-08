@@ -11,6 +11,7 @@ sidebar_position: 1
 |[www.zhengddzz.com](https://www.zhengddzz.com/)|网站首页|运行中||
 |[docs.zhengddzz.com](https://docs.zhengddzz.com/)|帮助文档|运行中||
 |[blog.zhengddzz.com](https://blog.zhengddzz.com/)|个人博客|运行中|
+|[f.zhengddzz.com](https://f.zhengddzz.com/)|个人论坛|运行中||
 |[q.zhengddzz.com](https://q.zhengddzz.com/)|问卷系统|运行中||
 |[mc.zhengddzz.com](https://mc.zhengddzz.com/)|MC服官网|运行中||
 
