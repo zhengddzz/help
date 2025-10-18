@@ -3,7 +3,7 @@
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'zhengddzz文档',
-  url: 'https://docs.zhengddzz.com', // 替换为你的实际域名
+  url: 'https://docs.zdzz.top', // 替换为你的实际域名
   baseUrl: '/',
   // 处理断链的策略：throw（报错终止）、warn（警告）、ignore（忽略）
   onBrokenLinks: 'throw',
@@ -52,6 +52,12 @@ const config = {
             docId: '主站/index', // 文档ID（对应docs/MC/index.mdx）
             position: 'left',
             label: '主站', // 导航项显示名称
+          },
+          {
+            type: 'doc', // 指向单个文档
+            docId: 'idc/index', // 文档ID（对应docs/MC/index.mdx）
+            position: 'left',
+            label: '竹节云帮助文档', // 导航项显示名称
           },
           {
             type: 'doc', // 指向单个文档
