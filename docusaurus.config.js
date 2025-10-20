@@ -98,7 +98,7 @@ const config = {
             ],
           },
         ],
-        copyright: `版权所有 © ${new Date().getFullYear()} zhengddzz，基于Docusaurus构建。`,
+        copyright: `版权所有 © ${new Date().getFullYear()} zhengddzz，基于Docusaurus构建。<a href="http://beian.miit.gov.cn" target="_blank">粤ICP备2025464402号-1</a>`,
       },
       // 代码高亮主题
     }),
