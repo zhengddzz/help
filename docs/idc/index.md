@@ -8,7 +8,7 @@ sidebar_position: 1
 
 |地址|描述|状态|备注|
 |:-:|:-:|:-:|:-:|
-|[idc.zhengddzz.com](https://idc.zhengddzz.com/)|网站首页|运行中||
+|[zhujieyun.com](https://zhujieyun.com/)|网站首页|运行中||
 
 [使用条款](/主站/使用条款)
 
