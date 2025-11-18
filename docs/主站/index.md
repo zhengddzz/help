@@ -12,8 +12,7 @@ sidebar_position: 1
 |[docs.zdzz.top](https://docs.zdzz.top/)|帮助文档|运行中||
 |[blog.zdzz.top](https://blog.zdzz.top/)|个人博客|运行中|
 |[pan.zdzz.top](https://pan.zdzz.top/)|个人网盘|运行中|
-|[f.zdzz.top](https://f.zdzz.top/)|个人论坛|运行中||
-|[q.zdzz.top](https://q.zdzz.top/)|问卷系统|运行中||
+|[g.zdzz.top](https://g.zdzz.top/)|游戏导航|运行中|
 |[mc.zhengddzz.com](https://mc.zhengddzz.com/)|MC服官网|暂停运行||
 
 [使用条款](/主站/使用条款)
