@@ -98,7 +98,8 @@ const config = {
             ],
           },
         ],
-        copyright: `版权所有 © ${new Date().getFullYear()} zhengddzz，基于Docusaurus构建。<a href="http://beian.miit.gov.cn" target="_blank">粤ICP备2025464402号-1</a>`,
+        copyright: `版权所有 © ${new Date().getFullYear()} zhengddzz，基于Docusaurus构建。<a href="http://beian.miit.gov.cn" target="_blank">粤ICP备2025464402号-1</a>
+<a href="https://beian.mps.gov.cn/#/query/webSearch?code=44060502004003" rel="noreferrer" target="_blank">粤公网安备44060502004003号</a>`,
       },
       // 代码高亮主题
     }),
