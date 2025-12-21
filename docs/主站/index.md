@@ -11,8 +11,10 @@ sidebar_position: 1
 |[www.zdzz.top](https://www.zdzz.top/)|网站首页|运行中||
 |[docs.zdzz.top](https://docs.zdzz.top/)|帮助文档|运行中||
 |[blog.zdzz.top](https://blog.zdzz.top/)|个人博客|运行中|
-|[pan.zdzz.top](https://pan.zdzz.top/)|个人网盘|运行中|
-|[g.zdzz.top](https://g.zdzz.top/)|游戏导航|运行中|
+|[zz.zdzz.top](https://zz.zdzz.top/)|赞助页面|运行中|
+|[g.zdzz.top](https://g.zdzz.top/)|zdzz游戏导航|运行中|
+|[fx.zdzz.top](https://fx.zdzz.top/)|zdzz文件分享|运行中|
+|[pan.zdzz.top](https://pan.zdzz.top/)|个人网盘|暂停运行|
 |[mc.zhengddzz.com](https://mc.zhengddzz.com/)|MC服官网|暂停运行||
 
 [使用条款](/主站/使用条款)
