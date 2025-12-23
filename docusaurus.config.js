@@ -61,9 +61,15 @@ const config = {
           },
           {
             type: 'doc', // 指向单个文档
-            docId: 'MC/index', // 文档ID（对应docs/MC/index.mdx）
+            docId: '/', // 文档ID（对应docs/MC/index.mdx）
             position: 'left',
             label: 'MC服务器指南', // 导航项显示名称
+          },
+          {
+            type: 'blog', // 指向单个文档
+            docId: 'M', // 文档ID（对应docs/MC/index.mdx）
+            position: 'right',
+            label: '网站事件通知', // 导航项显示名称
           },
         ],
       },
