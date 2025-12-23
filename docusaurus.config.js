@@ -67,7 +67,7 @@ const config = {
           },
           {
             type: 'blog', // 指向单个文档
-            docId: 'M', // 文档ID（对应docs/MC/index.mdx）
+            docId: '/', // 文档ID（对应docs/MC/index.mdx）
             position: 'right',
             label: '网站事件通知', // 导航项显示名称
           },
