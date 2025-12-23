@@ -83,8 +83,8 @@ const config = {
             title: '社区',
             items: [
               {
-                label: 'MC服务器玩家交流群（QQ群）',
-                href: 'https://qm.qq.com/q/yqqRzJYqBk',
+                label: 'zdzz服务交流群（QQ群）',
+                href: 'https://qm.qq.com/q/fVIB8Evxd',
               },
             ],
           },
@@ -98,8 +98,16 @@ const config = {
             ],
           },
         ],
-        copyright: `版权所有 © ${new Date().getFullYear()} zhengddzz，基于Docusaurus构建。<a href="http://beian.miit.gov.cn" target="_blank">粤ICP备2025464402号-1</a>
-<a href="https://beian.mps.gov.cn/#/query/webSearch?code=44060502004003" rel="noreferrer" target="_blank">粤公网安备44060502004003号</a>`,
+        copyright: `<p>版权所有 © ${new Date().getFullYear()} zhengddzz，基于Docusaurus构建。</p><a href="http://beian.miit.gov.cn" target="_blank">粤ICP备2025464402号-1</a>
+<a href="https://beian.mps.gov.cn/#/query/webSearch?code=44060502004003" rel="noreferrer" target="_blank">粤公网安备44060502004003号</a>`，<div class="footer">
+    本站由
+    <a href="https://zhujieyun.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://docs.zdzz.top/img/IDC-logo.png" 
+             alt="竹节云" 
+             style="height: 20px; vertical-align: middle;">
+    </a>
+    提供服务器与 CDN 加速支持
+</div>
       },
       // 代码高亮主题
     }),
