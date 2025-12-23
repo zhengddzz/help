@@ -1,8 +1,8 @@
 ---
-slug: first-blog-post
-title: First Blog Post
-authors: [slorber, yangshun]
-tags: [hola, docusaurus]
+slug: 1
+title: 公告
+authors: [zhengddzz]
+tags: [公告]
 ---
 
 Lorem ipsum dolor sit amet...
