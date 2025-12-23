@@ -10,6 +10,7 @@ sidebar_label: 网站更新日志
 ### 12 月
 
 - 22 日：[赞助名单页面](https://blog.zdzz.top/zz/)和[网站更新日志](https://docs.zdzz.top/%E4%B8%BB%E7%AB%99/c_log)上线，提高了用户体验。
+- 23 日：[网站事件通知](https://docs.zdzz.top/blog)上线，提高了用户体验。
 
 ### 11 月
 
