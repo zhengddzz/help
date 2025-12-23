@@ -66,7 +66,7 @@ const config = {
             label: 'MC服务器指南', // 导航项显示名称
           },
           {
-            to: 'blog'， // 文档ID（对应docs/MC/index.mdx）
+            to: 'blog', // 文档ID（对应docs/MC/index.mdx）
             position: 'right',
             label: '网站事件通知', // 导航项显示名称
           },
