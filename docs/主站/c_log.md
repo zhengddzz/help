@@ -13,6 +13,12 @@ sidebar_label: 网站更新日志
 2. `zhengddzz.fun` 根域名下的所有网站。
 
 :::
+## 2026 年
+
+### 1 月
+
+- 6 日：增加网站防御。
+- 7 日：网站访问统计上线。
 
 ## 2025 年
 
@@ -23,6 +29,7 @@ sidebar_label: 网站更新日志
 - 22 日：[赞助名单页面](https://blog.zdzz.top/zz/)和[网站更新日志](https://docs.zdzz.top/%E4%B8%BB%E7%AB%99/c_log)上线，提高了用户体验。
 - 23 日：[网站事件通知](https://docs.zdzz.top/blog)上线，提高了用户体验。
 - 25 日：[赞助系统（已下线）](https://zz.zdzz.top/)下线。
+- 27 日：[zhengddzz博客](https://blog.zdzz.top/)跟换主题。
 
 ### 11 月
 
