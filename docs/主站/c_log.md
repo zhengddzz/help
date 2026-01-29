@@ -1,9 +1,9 @@
 ---
 sidebar_position: 5
-sidebar_label: 网站更新日志
+sidebar_label: 网站更新日志&大事记
 ---
 
-# 网站更新日志
+# 网站更新日志&大事记
 
 :::info
 
@@ -19,6 +19,9 @@ sidebar_label: 网站更新日志
 
 - 6 日：增加网站防御。
 - 7 日：网站访问统计上线。
+- 24 日：经过一段时间的开发，[ChmlFrp 节点推荐器 0.1.0 测试版正式发布](https://www.zdzz.top/forum-post/363.html/)。
+- 28 日：QQ开发者认证过审。
+- 29 日：QQ应用过审，已开放QQ快捷登录。
 
 ## 2025 年
 
