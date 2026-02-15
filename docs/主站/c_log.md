@@ -17,10 +17,10 @@ sidebar_label: 网站更新日志&大事记
 
 ### 1 月
 
-- 5 日：[www.zdzz.top]([www.zdzz.top](https://www.zdzz.top))受到cc攻击，QPS达到240，总攻击量超20w。
+- 5 日：[www.zdzz.top](https://www.zdzz.top)受到cc攻击，QPS达到240，总攻击量超20w。
 - 6 日：增加网站防御。
 - 7 日：网站访问统计上线。
-- 8 日：[www.zdzz.top]([www.zdzz.top](https://www.zdzz.top))受到cc攻击，QPS达到119，总攻击量超10w。
+- 8 日：[www.zdzz.top](https://www.zdzz.top)受到cc攻击，QPS达到119，总攻击量超10w。
 - 24 日：经过一段时间的开发，[ChmlFrp 节点推荐器 0.1.0 测试版正式发布](https://www.zdzz.top/forum-post/363.html/)。
 - 28 日：QQ开发者认证过审。
 - 29 日：QQ应用过审，已开放QQ快捷登录。
