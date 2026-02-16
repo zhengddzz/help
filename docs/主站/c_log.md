@@ -17,6 +17,7 @@ sidebar_label: 网站更新日志&大事记
 
 ### 2 月
 
+- 6 日：[www.zdzz.top](https://www.zdzz.top)受到cc攻击，QPS达到784，总攻击量超100w。
 - 11 日：[chmlfrp.com.cn](https://chmlfrp.com.cn)域名已购买。
 - 12 日：[ChmlFrp交流社区](https://t.chmlfrp.com.cn/)开始运营。
 - 15 日：[ChmlFrp交流社区](https://t.chmlfrp.com.cn/)受到2次cc攻击，QPS峰值达到551，总攻击量超60w。
