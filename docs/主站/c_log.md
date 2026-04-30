@@ -18,6 +18,8 @@ sidebar_label: 网站更新日志&大事记
 ### 3 月
 
 - 12 日：购买域名 `ddzz.com.cn`。
+- 14 日：[连点速度测试](https://cst.zdzz.top/)上线。
+- 15 日：[API文档](https://api.docs.zdzz.top/)上线。
 
 ### 2 月
 
