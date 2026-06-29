@@ -89,7 +89,7 @@ const config = {
             items: [
               {
                 label: 'zdzz服务交流群（QQ群）',
-                href: 'https://qm.qq.com/q/fVIB8Evxd',
+                href: 'https://qm.qq.com/q/Jh7BEdIGg6',
               },
             ],
           },
