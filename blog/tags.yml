@@ -1,9 +1,0 @@
-公告:
-  label: 公告
-  permalink: /ac
-  description: 网站事件公告
-
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
